@@ -1,0 +1,97 @@
+body {
+  background-color: hsl(257, 40%, 49%);
+  background-image: url('../images/bg-desktop.svg');
+ }
+
+.container {
+   margin: 65px 95px 35px 80px;
+  }
+
+.cabecalho {
+   display: flex;
+   justify-content: flex-start;
+}
+.cabecalho img {
+  width: 195px;
+  height: 45px;
+  margin-bottom: 105px;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+ 
+ }
+
+.hero img {
+   max-width: 100%;
+}
+
+.hero .info h1 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  color: #fff;
+  font-size: 40px;
+}
+
+.hero .info p {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #fff;
+  margin-bottom: 30px;
+
+}
+
+.hero .info .btn {
+  background-color: #fff;
+  width: 200px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.hero .info .btn a {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: hsl(257, 40%, 49%);
+}
+
+.hero .info .btn:hover {
+   background-color: hsl(300, 69%, 71%);
+   transition: 0.3s;
+}
+
+.hero .info .btn:hover a {
+   color: #fff;
+ }
+
+
+.socials {
+   display: flex;
+   gap: 18px;
+   justify-content: flex-end;
+ }
+
+.socials .fa-brands {
+     color: #fff;
+     font-size: 30px;
+        
+}
+
+.socials .fa-brands:hover {
+   color: hsl(300, 69%, 71%);
+   transition: 0.3s;
+}
+
+
+
+
+

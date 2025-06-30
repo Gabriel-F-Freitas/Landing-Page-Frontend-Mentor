@@ -1,0 +1,66 @@
+@media (max-width: 1024px) {
+       .container {
+           margin: 30px;
+       }     
+      
+     .cabecalho {
+        justify-content: flex-start;
+     }
+      
+     .cabecalho img {
+         margin-bottom: 40px;
+       
+       
+      }
+     
+      .hero {
+       flex-direction: column;
+       justify-content: flex-start;
+       gap: 30px;
+      }
+    
+      .info {
+         display: flex;
+         flex-direction: column;
+         justify-content: center; 
+         align-items: center;
+          text-align: center;
+     }
+
+      .hero .info h1 {
+         font-size: 30px;
+       }
+     
+      .hero .info p {
+         font-size: 16px;
+       }
+
+      .hero .info .btn {
+       margin-bottom: 30px;
+       width: 150px;
+        height: 45px;
+        
+      }
+     
+      .socials {
+        justify-content: center;
+      }
+       
+ 
+
+}
+
+
+@media (max-width: 768px) {
+    
+   
+}
+
+
+
+
+
+
+
+
+
