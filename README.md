@@ -28,8 +28,6 @@ O layout se adapta a diferentes tamanhos de tela, com destaque para:
 
 ---
 
-📂 Estrutura de Pastas
-
 💡 Melhorias futuras
 Adicionar animações sutis com CSS
 
@@ -43,3 +41,4 @@ Desenvolvido por Gabriel Felipe de Freitas
 📄 Licença
 
 Este projeto é apenas para fins educacionais.
+
