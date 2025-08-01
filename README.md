@@ -35,10 +35,10 @@ Incluir feedback visual ao clicar nos botões
 
 Implementar com React ou outro framework para estudos
 
-🧑‍💻 Autor
 Desenvolvido por Gabriel Felipe de Freitas
 
 📄 Licença
 
 Este projeto é apenas para fins educacionais.
+
 
